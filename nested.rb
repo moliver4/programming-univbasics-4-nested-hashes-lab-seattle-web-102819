@@ -126,4 +126,6 @@ def adding_to_dennis
         }
      }
 
+		 programer[:dennis_ritchie][:languages].push("Assembly")
+
 end
